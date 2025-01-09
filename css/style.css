@@ -49,4 +49,39 @@ font-weight: bold ;
 color: white;
 padding: 18px 35px 19px 36px;
 border-radius: 5PX;
+border: none;
+}
+.bnr-style{
+font-weight: 600;
+font-size: 45px;
+
+}
+.dark-1{
+    color:rgba(24, 24, 24, 1);
+}
+.mh{
+font-size: 85px;
+font-weight: bold;
+}
+.banner-pic{
+width: 580px;
+
+
+}
+.banner{ display: flex;
+    justify-content: space-between;
+    margin: 0 35px 0 200px;
+
+}
+.banner-content{
+    width: 580px;
+   
+}
+.side-image{
+
+    background-image: url('../images/developer.png'), url('../images/header_bg.png');
+background-repeat: no-repeat;
+background-position: top left , right bottom;
+
+
 }
